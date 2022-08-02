@@ -15,4 +15,4 @@ AnarchyChat is a public chatroom without any rules. This project was closed due 
 An undetectable Ad-Blocker and Tracker-Blocker. Sites can't detect it because its basically a proxy that blocks known tracking/ad providing sources without leaving a trace!
 
 ### EasyLang
-It was supposed to be a language that would help begginers learn how to code. I realised that it was way beyond my skill level so now its sitting with two functions, Comments and Printing.
+It was supposed to be a language that would help beginers learn how to code. I realised that it was way beyond my skill level so now its sitting with two functions, Comments and Printing.
