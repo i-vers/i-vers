@@ -13,3 +13,6 @@ AnarchyChat is a public chatroom without any rules. This project was closed due 
 
 ### ![SafeBrowsing](https://cdn.discordapp.com/emojis/585675227128659970.webp?size=32&quality=lossless) SafeBrowsing Extension
 An undetectable Ad-Blocker and Tracker-Blocker. Sites can't detect it because its basically a proxy that blocks known tracking/ad providing sources without leaving a trace!
+
+### EasyLang
+It was supposed to be a language that would help begginers learn how to code. I realised that it was way beyond my skill level so now its sitting with two functions, Comments and Printing.
