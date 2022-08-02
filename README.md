@@ -1,6 +1,6 @@
 # Hello! ![Wave](https://cdn.discordapp.com/emojis/861905792626065418.gif?size=32&quality=lossless)
 I'm **iVers**. *A low-skilled teen with big dreams.*  
-I'm currently learning __BrainFuck__!   
+I'm currently learning __C__!   
 I'm experienced with the following languages: **python**, **javascript**, **batch** and more!    
   
 ![Javascript](https://cdn.discordapp.com/emojis/673878349273366528.webp?size=32&quality=lossless) 
